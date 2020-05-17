@@ -1,0 +1,15 @@
+环境
+最好使用php 7.2，不支持7以下版本
+
+
+
+前台
+http://newu.xiangxin.me
+13111111111
+123456
+
+
+后台
+http://newu.xiangxin.me/admin/login/token/kW0w9Sl2mcl6dc8Xv7n
+admin
+admin888
